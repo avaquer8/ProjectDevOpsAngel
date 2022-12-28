@@ -13,7 +13,7 @@ public class BookzyBookShopApplication extends SpringBootServletInitializer {
         return builder.sources(BookzyBookShopApplication.class);
     }		
 	
-	public static void main(String[] args) {
-		SpringApplication.run(BookzyBookShopApplication.class, args);
-	}
+    public static void main(String[] args) {
+	SpringApplication.run(BookzyBookShopApplication.class, args);
+    }
 }
