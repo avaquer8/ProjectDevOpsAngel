@@ -16,7 +16,7 @@
 	<description>Web app for an online book shop named Bookzy</description>
 	<properties>
 		<java.version>17</java.version>
-      		<start-class>com.mkyong.SpringBootWebApplication</start-class>		
+      		<start-class>com.vodafone.com.BookzyBookShop</start-class>	
 	</properties>
 	<dependencies>
 		<dependency>
