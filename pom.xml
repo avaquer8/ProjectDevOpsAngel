@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.vodafone.com</groupId>
 	<artifactId>BookzyBookShop</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version></version>
 	<packaging>war</packaging>
 	<name>BookzyBookShop</name>
 	<description>Web app for an online book shop named Bookzy</description>
