@@ -11,6 +11,6 @@ public class WelcomeStarterProject {
 	public String SpringStarter()
 	{
         Date date = new Date();
-		return "At the moment:" + date + " <h1>The library Bookzy works great.</h1>";
+		return "At the moment:" + date + " <h1>The library Bookzy works great.Test complete</h1>";
 	}
 }
